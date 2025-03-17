@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SwiftUI, ML and Java**
 
-- 📝 I regularly write articles on [https://iann.hashnode.dev/](https://iann.hashnode.dev/)
+- 📝 I regularly write articles on(https://medium.com/@ianwastaken)
 
 - 💬 Ask me about **SwiftUI, Python, Java**
 
